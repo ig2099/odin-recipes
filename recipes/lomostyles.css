@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-size: 65px;
+
+}
+
+h2 {
+    font-size: 35px;
+}
+
+
+
+p, ul, ol {
+    background-color: red;
+    font-size: 25px;
+}
