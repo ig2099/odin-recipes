@@ -9,3 +9,18 @@
 .bullet-list-1 {
     text-align: center;
 }
+
+.description-style {
+    background-color: black;
+    color: rgb(255,255,255)
+}
+
+.ingredient-style {
+    background-color: black;
+    color: rgb(255,255,255)
+}
+
+.step-style {
+    background-color: black;
+    color: rgb(255,255,255)
+}
