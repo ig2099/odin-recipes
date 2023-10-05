@@ -36,3 +36,7 @@ div {
 .a-home {
     color:white;
 }
+
+li.li-home {
+    display: inline-block;
+}
