@@ -43,3 +43,7 @@ li.li-home {
     padding: 20px;
     margin: 40px 20px;
     }
+
+.recipe-home-list-div {
+    border: 10px solid white;
+}
